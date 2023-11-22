@@ -48,7 +48,7 @@ header nav a:hover, footer a:hover {
 
 .container-main {
     min-height: 100vh;
-    padding-bottom: 1rem;
+    padding: 0 1rem 1rem 1rem;
 }
 
 .card {
@@ -136,7 +136,7 @@ header nav a:hover, footer a:hover {
 }
 
 .container-aside h3 {
-    font-size: 1.35rem;
+    font-size: 1.2rem;
     text-transform: uppercase;
 
 }
@@ -164,7 +164,7 @@ header nav a:hover, footer a:hover {
     }
 
     .container-aside {
-        width: 90%;
+        width: 100%;
         margin-left: 0;
     }
 
@@ -222,7 +222,7 @@ header nav a:hover, footer a:hover {
     }
 
     nav a {
-        font-size: 1.25rem;
+        font-size: 1rem;
         margin: 0;
     }
 
@@ -238,10 +238,6 @@ header nav a:hover, footer a:hover {
         width: 16.5rem;
     }
 
-    .aside-cards img {
-        width: 15rem;
-    }
-
     .container-welcome h1 {
         font-size: 1.125rem;
     }
@@ -251,7 +247,7 @@ header nav a:hover, footer a:hover {
     }
 
     .card h2{
-        font-size: 1.3rem;
+        font-size: 1.125rem;
     }
 
     .card p {
@@ -264,5 +260,9 @@ header nav a:hover, footer a:hover {
 
     .aside-cards h3 {
         font-size: .9rem;
+    }
+
+    .aside-cards img {
+        width: 14rem;
     }
 }
