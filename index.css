@@ -178,7 +178,7 @@ header nav a:hover, footer a:hover {
     }
 
     .container-welcome h1 {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
 }
@@ -202,10 +202,6 @@ header nav a:hover, footer a:hover {
 
     .container-welcome p {
         font-size: 1rem;
-    }
-
-    .container-welcome h1 {
-        font-size: 1.5rem;
     }
 
     footer a {
